@@ -16,7 +16,6 @@ Then The 4 cases As Follow
 
 Note That for the first case we could use the below code and dependency to read the data from excel sheet
 
-package com.appium.utils;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
